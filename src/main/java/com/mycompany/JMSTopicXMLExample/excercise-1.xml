@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library xmlns="http://example.net/library/1.0">
+    <books>
+        <book id="b1">
+            <author id="a1">
+                <name>John</name>
+                <surname>Applesed</surname>
+                <born>1979-11-11</born>
+            </author>
+            <title>Missing opportunity</title>
+            <published>1992</published>
+            <isbn>978-3-16-148410-0</isbn>
+        </book>
+        <book id="b2">
+            <author id="a4">
+                <name>Mikolaj</name>
+                <surname>Kopernik</surname>
+                <born>1473-02-19</born>
+                <died>1543-05-24</died>
+            </author>
+            <title>O obrotach sfer niebieskich</title>
+            <published>1543</published>
+        </book>
+    </books>
+</library>
